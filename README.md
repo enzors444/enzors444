@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Enzo!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Backend+Developer;Python+%7C+TypeScript;RPA+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Backend+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
