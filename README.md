@@ -66,7 +66,7 @@
 ## 🌟 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/enzors444/projeto-1">
+  <a href="https://github.com/enzors444/sistema-recomendacao">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzors444&repo=sistema-recomendacao&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00d9ff" />
   </a>
   <a href="https://github.com/enzors444/projeto-2">
