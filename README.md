@@ -56,6 +56,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzors444&theme=dark&background=0d1117&border=30363d&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 Achievements
 
 <div align="center">
