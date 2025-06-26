@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://github.com/enzors444/projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzors444&repo=projeto-1&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00d9ff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzors444&repo=sistema-recomendacao&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00d9ff" />
   </a>
   <a href="https://github.com/enzors444/projeto-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzors444&repo=projeto-2&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00d9ff" />
@@ -79,9 +79,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzoribeiro07/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
 
 </div>
