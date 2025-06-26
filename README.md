@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou o Enzo!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
