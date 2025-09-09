@@ -52,10 +52,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzors444&theme=dark&background=0d1117&border=30363d&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
