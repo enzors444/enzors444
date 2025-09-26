@@ -8,7 +8,6 @@
 
 - 🏢 Currently working at **iAgiliza**
 - 🔧 Developing with **Python and TypeScript**
-- 🤖 Working with **RPA (Robotic Process Automation)**
 - 🌱 Always exploring new technologies
 - 📫 How to reach me: **enzors444@gmail.com**
 
