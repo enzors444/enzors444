@@ -9,12 +9,15 @@
     <em>"Transforming manual processes into autonomous solutions."</em>
   </p>
 
-  <div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.instagram.com/enzoribeiro07/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
     </a>
     <a href="mailto:enzors444@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
     </a>
   </div>
 
@@ -31,20 +34,13 @@
 
 - 🏢 **iAgiliza:** Architecting operational intelligence.
 - 🤖 **AI & RAG:** Implementing vector search & context-aware agents.
-- ⚡ **Orchestration:** Connecting ecosystems via **n8n**.
+- ⚡ **Orchestration:** Connecting ecosystems via **n8n** & **Chatwoot**.
 - 🧠 **NLP:** Structuring unstructured data & semantic segmentation.
 
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
+  <h3>🐍 Contributions</h3>
   <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
