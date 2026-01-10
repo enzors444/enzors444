@@ -1,96 +1,66 @@
-# 👋 Hey there, I'm Enzo!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Backend+Developer" alt="Typing SVG" />
-</div>
+  <h2>👋 Hi, I'm Enzo!</h2>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Building+AI+Agents+%26+Automation;Python+%7C+TypeScript+%7C+NLP;RAG+%7C+n8n+%7C+Chatwoot" alt="Typing SVG" />
+  </a>
+  
+  <p>
+    <em>"Transforming manual processes into autonomous solutions."</em>
+  </p>
 
-## 🚀 About Me
+  <br/>
 
-- 🏢 Currently working at **iAgiliza**
-- 🔧 Developing with **Python and TypeScript**
-- 🌱 Always exploring new technologies
-- 📫 How to reach me: **enzors444@gmail.com**
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### RPA
-![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00d9ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzors444&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/enzors444/sistema-recomendacao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzors444&repo=sistema-recomendacao&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00d9ff" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,postgres,mongo,git,docker,postman,vscode,selenium,regex,bots&perline=13" />
   </a>
 </div>
 
-## 🌐 Connect With Me
+<br/>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Engineering & Automation</h3>
+      <br/>
+      <ul>
+        <li>🏢 <strong>iAgiliza:</strong> Architecting operational intelligence.</li>
+        <li>🤖 <strong>AI & RAG:</strong> Implementing vector search & context-aware agents.</li>
+        <li>⚡ <strong>Orchestration:</strong> Connecting ecosystems via <strong>n8n</strong> & <strong>Chatwoot</strong>.</li>
+        <li>🧠 <strong>NLP:</strong> Structuring unstructured data & semantic segmentation.</li>
+        <li>📫 Contact: <a href="mailto:enzors444@gmail.com">enzors444@gmail.com</a></li>
+      </ul>
+      <br/>
+      <h3>🌐 Connect</h3>
+      <div align="left">
+        <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+        </a>
+        <a href="https://www.instagram.com/enzoribeiro07/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+        </a>
+      </div>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+        <br/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>🐍 See my coding activity graph</summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" width="100%"/>
+  </div>
+</details>
+
+<br/>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzoribeiro07/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzors444&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-### 💡 *"Code, automate, repeat"*
-
-⭐️ **Thanks for visiting!**
-
+  <img src="https://komarev.com/ghpvc/?username=enzors444&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
