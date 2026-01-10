@@ -20,9 +20,8 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="center">
       <h3>🚀 Engineering & Automation</h3>
-      <br/>
       <ul>
         <li>🏢 <strong>iAgiliza:</strong> Architecting operational intelligence.</li>
         <li>🤖 <strong>AI & RAG:</strong> Implementing vector search & context-aware agents.</li>
@@ -31,21 +30,21 @@
         <li>📫 Contact: <a href="mailto:enzors444@gmail.com">enzors444@gmail.com</a></li>
       </ul>
       <br/>
-      <h3>🌐 Connect</h3>
+      
       <div align="left">
         <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
         </a>
         <a href="https://www.instagram.com/enzoribeiro07/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
         </a>
       </div>
     </td>
-    <td width="45%" valign="top" align="center">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="100%"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&langs_count=6&theme=dark&hide_border=true" width="100%"/>
+
+    <td width="40%" valign="center" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzors444&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="100%"/>
     </td>
   </tr>
 </table>
@@ -53,6 +52,7 @@
 <br/>
 
 <div align="center">
+  <h3>🐍 Contributions</h3>
   <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
