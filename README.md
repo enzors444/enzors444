@@ -10,13 +10,7 @@
   </p>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin" />
-    </a>
-    &nbsp;
-    <a href="mailto:enzors444@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail" />
-    </a>
+    <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin" /></a><a href="mailto:enzors444@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail" /></a>
   </div>
 </div>
 
