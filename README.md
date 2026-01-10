@@ -9,18 +9,15 @@
     <em>"Transforming manual processes into autonomous solutions."</em>
   </p>
 
-  <br/>
-
-  <h3>📫 Contact Me</h3>
   <div align="center">
-    <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:enzors444@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a>
+    <a href="https://www.linkedin.com/in/enzo-ribeiro-a727052a6/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin" />
+    </a>
+    &nbsp;
+    <a href="mailto:enzors444@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail" />
+    </a>
   </div>
-
-  <br/>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,postgres,mongo,git,docker,postman,vscode,selenium,regex,bots&perline=15" />
-  </a>
 </div>
 
 <br/>
@@ -35,12 +32,16 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 Contributions</h3>
+  <h3>🛠️ Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,postgres,mongo,git,docker,postman,vscode,selenium,regex,bots&perline=15" />
+  </a>
+
+  <br/><br/>
+
   <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzors444&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=enzors444&label=Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
