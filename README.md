@@ -18,9 +18,9 @@
 
 <br/>
 
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>🚀 Engineering & Automation</h3>
       <br/>
       <ul>
@@ -41,23 +41,20 @@
         </a>
       </div>
     </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-        <br/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
-      </div>
+    <td width="45%" valign="top" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="100%"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&langs_count=6&theme=dark&hide_border=true" width="100%"/>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary>🐍 See my coding activity graph</summary>
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" width="100%"/>
-  </div>
-</details>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/enzors444/enzors444/output/snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
 <br/>
 
