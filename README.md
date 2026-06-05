@@ -36,7 +36,7 @@
 
 <div align="center">
 
-🏢 **Working at Segurocor:** Designing and developing intelligent automation solutions that improve operational efficiency and scalability.  
+🏢 **Working at SeguroCor:** Designing and developing intelligent automation solutions that improve operational efficiency and scalability.  
 🤖 **AI & RAG Systems:** Architecting context-aware agents powered by vector databases and semantic search.  
 ⚡ **Process Orchestration:** Automating end-to-end workflows through n8n, Chatwoot and robust API integrations.  
 🧠 **NLP:** Structuring, processing and extracting high-value insights from unstructured data at scale.
