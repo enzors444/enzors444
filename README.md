@@ -45,10 +45,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=enzors444&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzors444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="./generated/overview.svg" alt="GitHub Stats" width="48%"/>
+<img src="./generated/languages.svg" alt="Top Languages" width="48%"/>
 
 </div>
+
+> Gerado automaticamente 1x por dia via GitHub Actions — sem depender de serviço externo.
 
 <br/>
 
