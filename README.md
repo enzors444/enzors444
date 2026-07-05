@@ -41,19 +41,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./generated/overview.svg" alt="GitHub Stats" width="48%"/>
-<img src="./generated/languages.svg" alt="Top Languages" width="48%"/>
-
-</div>
-
-> Gerado automaticamente 1x por dia via GitHub Actions — sem depender de serviço externo.
-
-<br/>
-
 ## 📫 Contato
 
 - LinkedIn: [enzo-ribeiro-a727052a6](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)
