@@ -43,5 +43,5 @@
 
 ## 📫 Contact
 
-- LinkedIn: [enzo-ribeiro-a727052a6](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)
+- LinkedIn: [enzo-ribeiro](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)
 - Email: [enzors444@gmail.com](mailto:enzors444@gmail.com)
