@@ -1,0 +1,21 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    # roda todo dia às 03:00 UTC (00:00 em Brasília)
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub stats images
+        uses: jstrieb/github-stats@master
+        with:
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          exclude_repos: ""
+          exclude_langs: "HTML,CSS"
