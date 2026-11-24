@@ -1,47 +1,51 @@
-<div align="center">
-
 # Enzo Ribeiro
 
-**Software Engineer building AI Agents & Automation** · Python · TypeScript · n8n · RAG/NLP
+Full-stack developer e product engineer. Construo produtos de ponta a ponta, do banco de dados à interface, e coloco agentes de IA para trabalhar em operações reais.
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzors444@gmail.com)
+> *EN: Full-stack developer and product engineer. Solo founder of Cavori (AI customer service on WhatsApp for small businesses) and developer at SeguroCor, building AI agents for insurance brokerages.*
 
-</div>
+📍 Santa Rita do Sapucaí, MG
 
-<br/>
+## O que estou construindo
 
-## 🔭 Currently focused on
+**[Cavori](https://cavori.com.br)**: fundador solo  
+Atendente de IA para o WhatsApp de pequenas e médias empresas. O dono monta o agente numa conversa, testa com perguntas reais dos clientes e liga no número que já usa. Quando não sabe uma resposta, o agente pergunta à equipe, e o que a equipe responde pode virar aprendizado depois de aprovado. Tem também um painel para agências que implantam atendimento para vários clientes.
+Faço tudo sozinho: produto, design, backend, frontend, infraestrutura e IA.
 
-- **SeguroCor** — automation architecture and operational intelligence (Chatwoot, n8n, RAG)
-- **CP2eJR** — internal management and gamification system built with Next.js
-- **AI Agents** — RAG and vector search applied to customer support and conversation routing
+**SeguroCor** (ex-iagiliza): desenvolvedor  
+Trabalho no agent-hub, a plataforma de agentes de IA que atendem e prospectam para corretoras de seguro no WhatsApp.
 
-<br/>
+**CP2eJr** (empresa júnior): assessor do Núcleo de Projetos  
+- Idealizei e construí sozinho o **CP2eJr Flow**, a plataforma de gestão de projetos da empresa, no estilo ClickUp e Jira.
+- Fui core developer do **Corporative**, o sistema interno de gamificação, capacitação e gestão dos membros.
+- Gerencio e lidero o squad do **Munch**, um SaaS de delivery multiloja (NestJS + Next.js), onde também reviso as PRs.
+- Dei um workshop de portfólio para estudantes ([material](https://github.com/enzors444/portfolio-workshop-inatel) · [site](https://portfolio-workshop-inatel.vercel.app)).
 
-## 🧰 Stack
+## Formação
 
-| Area | Technologies |
+- Engenharia de Software, **Inatel**: 4º período, em andamento
+- Técnico em Informática, **IF Sul de Minas**
+
+## Stack
+
+| | |
 | --- | --- |
-| Languages | `Python`, `TypeScript`, `JavaScript`, `C++` |
-| Frontend | `React`, `Next.js` |
-| Automation & AI | `n8n`, `Chatwoot`, `RAG`, `NLP` |
-| Data | `PostgreSQL`, `MongoDB` |
-| Tools | `Git`, `Docker`, `VS Code`, `Postman` |
+| Linguagens | TypeScript, JavaScript, Python, C++, SQL |
+| Backend | Node.js, NestJS, Fastify, Hono, Prisma, Zod, Better Auth |
+| Frontend | React, Next.js, Vite, Tailwind CSS, shadcn/ui |
+| Dados | PostgreSQL, MariaDB, Redis, Qdrant (busca vetorial) |
+| IA | LLMs, LangGraph, RAG, MCP, agentes no WhatsApp |
+| Infra e qualidade | Docker, GitHub Actions, AWS S3, Vitest, Playwright, Turborepo |
 
-<br/>
+## Projetos públicos
 
-## 📌 Featured projects
+- **[document-comparer](https://github.com/enzors444/document-comparer)**: compara versões de documentos jurídicos em PDF, com OCR e detecção de adições, remoções e alterações (Python, Flask).
+- **[portfolio-workshop-inatel](https://github.com/enzors444/portfolio-workshop-inatel)**: material do workshop de portfólio.
+- **[sistema-recomendacao](https://github.com/enzors444/sistema-recomendacao)**: sistema de recomendação em C++.
+- **[desafio-phishing](https://github.com/enzors444/desafio-phishing)**: detecção de phishing em Jupyter Notebook.
 
-- **[sistema-recomendacao](https://github.com/enzors444/sistema-recomendacao)** — recommendation system built in C++
-- **[cpg-game](https://github.com/enzors444/cpg-game)** — GDevelop game with enemy AI and vision-cone logic
-- **[case-cp2](https://github.com/enzors444/case-cp2)** — technical case study developed for CP2 Empresa Júnior
-- **[desafio-phishing](https://github.com/enzors444/desafio-phishing)** — phishing detection challenge in Jupyter Notebook
-- **[maison-sucre-lp](https://github.com/enzors444/maison-sucre-lp)** — landing page built with CSS
+A maior parte do meu trabalho (Cavori, SeguroCor e CP2eJr) fica em repositórios privados.
 
-<br/>
+## Contato
 
-## 📫 Contact
-
-- LinkedIn: [Enzo Ribeiro](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/)
-- Email: [enzors444@gmail.com](mailto:enzors444@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/) · [enzors444@gmail.com](mailto:enzors444@gmail.com) · [cavori.com.br](https://cavori.com.br)
