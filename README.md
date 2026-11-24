@@ -12,7 +12,7 @@ Full-stack developer e product engineer. Construo produtos de ponta a ponta, do 
 Atendente de IA para o WhatsApp de pequenas e médias empresas. O dono monta o agente numa conversa, testa com perguntas reais dos clientes e liga no número que já usa. Quando não sabe uma resposta, o agente pergunta à equipe, e o que a equipe responde pode virar aprendizado depois de aprovado. Tem também um painel para agências que implantam atendimento para vários clientes.
 Faço tudo sozinho: produto, design, backend, frontend, infraestrutura e IA.
 
-**SeguroCor** (ex-iagiliza): desenvolvedor  
+**SeguroCor**: desenvolvedor  
 Trabalho no agent-hub, a plataforma de agentes de IA que atendem e prospectam para corretoras de seguro no WhatsApp.
 
 **CP2eJr** (empresa júnior): assessor do Núcleo de Projetos  
