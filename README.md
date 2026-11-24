@@ -4,11 +4,11 @@ Full-stack developer e product engineer. Construo produtos de ponta a ponta, do 
 
 > *EN: Full-stack developer and product engineer. Solo founder of Cavori (AI customer service on WhatsApp for small businesses) and developer at SeguroCor, building AI agents for insurance brokerages.*
 
-📍 Santa Rita do Sapucaí, MG
+📍 Santa Rita do Sapucaí, MG · Portfólio em [enzoribeiro.com](https://www.enzoribeiro.com)
 
 ## O que estou construindo
 
-**Cavori**: fundador solo  
+**Cavori**: fundador solo · [cavori.com.br](https://cavori.com.br)  
 Atendente de IA para o WhatsApp de pequenas e médias empresas. O dono monta o agente numa conversa, testa com perguntas reais dos clientes e liga no número que já usa. Quando não sabe uma resposta, o agente pergunta à equipe, e o que a equipe responde pode virar aprendizado depois de aprovado. Tem também um painel para agências que implantam atendimento para vários clientes.
 Faço tudo sozinho: produto, design, backend, frontend, infraestrutura e IA.
 
@@ -48,4 +48,4 @@ A maior parte do meu trabalho (Cavori, SeguroCor e CP2eJr) fica em repositórios
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/) · [enzors444@gmail.com](mailto:enzors444@gmail.com) · [cavori.com.br](https://cavori.com.br)
+[LinkedIn](https://www.linkedin.com/in/enzo-ribeiro-a727052a6/) · [enzors444@gmail.com](mailto:enzors444@gmail.com) · [enzoribeiro.com](https://www.enzoribeiro.com)
