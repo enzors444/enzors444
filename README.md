@@ -18,7 +18,7 @@ Trabalho no agent-hub, a plataforma de agentes de IA que atendem e prospectam pa
 **CP2eJr** (empresa júnior): assessor do Núcleo de Projetos  
 - Idealizei e construí sozinho o **CP2eJr Flow**, a plataforma de gestão de projetos da empresa, no estilo ClickUp e Jira.
 - Fui core developer do **Corporative**, o sistema interno de gamificação, capacitação e gestão dos membros.
-- Lidero o **Munch**, um SaaS de delivery multiloja (NestJS + Next.js), de ponta a ponta: defino o produto e a arquitetura, planejo as sprints e as tarefas do squad, desenvolvo, reviso o código e oriento o time até a entrega.
+- Lidero o **Munch**, um SaaS de delivery multiloja (NestJS + Next.js). Defino o produto e a arquitetura, planejo as sprints e as tarefas do squad, desenvolvo, reviso o código e oriento o time até a entrega.
 - Dei um workshop de portfólio para estudantes ([material](https://github.com/enzors444/portfolio-workshop-inatel) · [site](https://portfolio-workshop-inatel.vercel.app)).
 
 ## Formação
